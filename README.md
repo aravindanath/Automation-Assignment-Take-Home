@@ -1,7 +1,6 @@
 # Automation-Assignment-Take-Home
 
 ## Automation Assignments 1:
-Note:
 
 ## Assignment 1:
 
