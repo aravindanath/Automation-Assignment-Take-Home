@@ -6,7 +6,7 @@ Note:
 ## Assignment 1:
 
 1. Go to https://www.amazon.in.
-2. Once page is loaded, search for iPhone XR (64GB) - Yellow.
+2. Once page is loaded, search for iPhone 13 256 GB.
 3. Select the matching iPhone once list appears.
 4. Get the price of the selected iPhone.
 5. Now, go to https://www.flipkart.com/.
